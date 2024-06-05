@@ -39,9 +39,9 @@ import org.encog.neural.networks.training.anneal.NeuralSimulatedAnnealing;
 import org.encog.neural.networks.training.propagation.resilient.ResilientPropagation;
 import org.encog.neural.pattern.JordanPattern;
 
-import tools.StatUtils;
 import data.DataReader;
 import de.uos.fmt.musitech.utility.math.MyMath;
+import tools.math.StatUtils;
 
 /**
  * Create and test NN sequence predictors.

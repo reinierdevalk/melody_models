@@ -16,7 +16,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/kylm-0.0.7.jar" sourcepath="/kylm/src"/>
-	<classpathentry kind="src" path="/utility"/>
+	<classpathentry kind="src" path="/utils"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/musitech"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
